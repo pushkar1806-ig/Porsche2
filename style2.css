@@ -13,9 +13,10 @@ body{
     align-items: center;
     justify-content: space-evenly;
   }
-  .nav img{
-    height: 50px;
-    width: 50%;
+  .nav .logo{
+    Font-weight: 600;
+    font-size: 1.5rem;
+    margin-top: 2%;
   }
     .hamburger , i{
     margin-top: 10px;
