@@ -14,7 +14,7 @@ body{
     justify-content: space-evenly;
   }
   .nav .logo{
-    Font-weight: 600;
+    font-weight: 600;
     font-size: 1.5rem;
     margin-top: 2%;
   }
